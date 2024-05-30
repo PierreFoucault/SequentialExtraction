@@ -1,4 +1,4 @@
-Thsi repositoy present the R code used for the following article:
+This repositoy present the R code used for the following article:
 
 "Multi-omics analyses from a single sample: prior metabolite extraction does not alter the 16S rRNA-based characterization of prokaryotic community in a diversity of sample types"
 
